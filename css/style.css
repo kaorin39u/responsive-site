@@ -118,11 +118,7 @@ footer {
   /* Header
   ------------------------------------------------------------*/
   header .profile {
-    background-image: url("../images/top.jpg");
-    height: 500px;
-    width: 100%;
-    background-size: cover;
-    background-position: center center; }
+    height: 500px; }
 
   #skills .container {
     -webkit-flex-direction: row;
